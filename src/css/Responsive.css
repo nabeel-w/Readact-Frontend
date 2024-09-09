@@ -1,0 +1,65 @@
+@media (max-width: 480px) {
+  .navbar {
+    padding: 0 4%;
+  }
+
+  .logo {
+    font-size: 1.5rem;
+  }
+
+  .credential {
+    width: 50vw;
+  }
+
+  .login,
+  .free-trial {
+    height: 70%;
+  }
+
+  .inside-files {
+    width: 80vw;
+  }
+
+  .heading {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .scale {
+    width: 75%;
+  }
+}
+
+
+@media (max-width: 1024px) {
+    .navbar {
+      padding: 0 4%;
+    }
+  
+    
+    .credential {
+      width: 50vw;
+    }
+  
+    .login,
+    .free-trial {
+      height: 70%;
+    }
+  
+    .inside-files {
+      width: 80vw;
+    }
+  
+    .heading {
+      font-size: 1.8rem;
+    }
+  
+    .scale {
+      width: 70%;
+    }
+    .submit{
+      width: 20%;
+    }
+
+  }
+  
